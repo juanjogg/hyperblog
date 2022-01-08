@@ -51,6 +51,10 @@ body {
     border: 1px solid #2a2a2a;
 }
 
+#mainImage {
+    max-width: 100%;
+}
+
 #container h1 {
     font-size: 20px;
 }
